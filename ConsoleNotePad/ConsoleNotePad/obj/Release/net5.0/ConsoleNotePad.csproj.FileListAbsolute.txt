@@ -1,0 +1,16 @@
+C:\Users\hrist\source\repos\ConsoleNotePad\ConsoleNotePad\bin\Release\net5.0\ConsoleNotePad.exe
+C:\Users\hrist\source\repos\ConsoleNotePad\ConsoleNotePad\bin\Release\net5.0\ConsoleNotePad.deps.json
+C:\Users\hrist\source\repos\ConsoleNotePad\ConsoleNotePad\bin\Release\net5.0\ConsoleNotePad.runtimeconfig.json
+C:\Users\hrist\source\repos\ConsoleNotePad\ConsoleNotePad\bin\Release\net5.0\ConsoleNotePad.runtimeconfig.dev.json
+C:\Users\hrist\source\repos\ConsoleNotePad\ConsoleNotePad\bin\Release\net5.0\ConsoleNotePad.dll
+C:\Users\hrist\source\repos\ConsoleNotePad\ConsoleNotePad\bin\Release\net5.0\ref\ConsoleNotePad.dll
+C:\Users\hrist\source\repos\ConsoleNotePad\ConsoleNotePad\bin\Release\net5.0\ConsoleNotePad.pdb
+C:\Users\hrist\source\repos\ConsoleNotePad\ConsoleNotePad\obj\Release\net5.0\ConsoleNotePad.csprojAssemblyReference.cache
+C:\Users\hrist\source\repos\ConsoleNotePad\ConsoleNotePad\obj\Release\net5.0\ConsoleNotePad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\ConsoleNotePad\ConsoleNotePad\obj\Release\net5.0\ConsoleNotePad.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\ConsoleNotePad\ConsoleNotePad\obj\Release\net5.0\ConsoleNotePad.AssemblyInfo.cs
+C:\Users\hrist\source\repos\ConsoleNotePad\ConsoleNotePad\obj\Release\net5.0\ConsoleNotePad.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\ConsoleNotePad\ConsoleNotePad\obj\Release\net5.0\ConsoleNotePad.dll
+C:\Users\hrist\source\repos\ConsoleNotePad\ConsoleNotePad\obj\Release\net5.0\ref\ConsoleNotePad.dll
+C:\Users\hrist\source\repos\ConsoleNotePad\ConsoleNotePad\obj\Release\net5.0\ConsoleNotePad.pdb
+C:\Users\hrist\source\repos\ConsoleNotePad\ConsoleNotePad\obj\Release\net5.0\ConsoleNotePad.genruntimeconfig.cache

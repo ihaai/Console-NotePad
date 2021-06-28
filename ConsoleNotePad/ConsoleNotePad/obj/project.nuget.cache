@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uC4BbNYTQOh3DToTTpg/6Ey+jy7XXazdBDu3DmaKABxIa+Rn5lYZqpL4TrsA7S8xvDfkCdwD0rOu+90KaMya8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hrist\\source\\repos\\ConsoleNotePad\\ConsoleNotePad\\ConsoleNotePad.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hrist\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\hrist\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\hrist\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
